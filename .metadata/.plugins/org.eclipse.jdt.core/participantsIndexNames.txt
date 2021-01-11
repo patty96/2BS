@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\MyStudy\70_Spring\2¡∂_±Ëº±»Ò-±Ë»Ò∏∏-√÷¿∫º≠-»≤¡§«œ\2BS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2674016103.index
+\2BS\src
+C:\MyStudy\70_Spring\2¡∂_±Ëº±»Ò-±Ë»Ò∏∏-√÷¿∫º≠-»≤¡§«œ\2BS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3245409664.index
+\2BS\src
